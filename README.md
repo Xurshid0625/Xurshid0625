@@ -15,6 +15,7 @@ I am always open to collaborating on projects and innovative ideas.  Find out mo
 
 - :computer: I'm currently working on PHP & Laravel
 - :triangular_flag_on_post: I teach code on YouTube
+- :muscle: Do Bodybuilding & Calisthenics
 
 ## ⚡ Technologies
 
