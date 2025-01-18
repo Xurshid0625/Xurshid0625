@@ -7,7 +7,7 @@ I am a back-end software engineer specializing in building high load back-end se
 I am always open to collaborating on projects and innovative ideas.  Find out more about me & feel free to connect with me here:
 
 
-[![Telegram Badge](https://img.shields.io/badge/@xurshi_dabdumannonov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/xurshid_0625)](https://t.me/xurshid_0625) 
+[![Telegram Badge](https://img.shields.io/badge/@xurshid_abdumannonov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/xurshid_0625)](https://t.me/xurshid_0625) 
 [![Instagram Badge](https://img.shields.io/badge/-xurshid_abdumannonov-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/xurshid_0625)](https://www.instagram.com/xurshid_0625) 
 
 
