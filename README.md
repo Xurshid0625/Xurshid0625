@@ -8,3 +8,15 @@ I am always open to collaborating on projects and innovative ideas.  Find out mo
 
 
 [![Telegram Badge](https://img.shields.io/badge/@xurshidabdumannonov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/xurshid_0625)](https://t.me/sukhrobnuraliev) 
+
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm currently working on
+- :triangular_flag_on_post: I teach code on YouTube
+
+## ⚡ Technologies
+
+![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
