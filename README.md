@@ -13,7 +13,7 @@ I am always open to collaborating on projects and innovative ideas.  Find out mo
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on PHP & Laravel
-- :triangular_flag_on_post: I learn code on YouTube
+- :triangular_flag_on_post: I learned code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
 
 ## ⚡ Technologies
