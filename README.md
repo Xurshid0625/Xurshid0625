@@ -10,7 +10,7 @@ I am a self-taught developer specializing in **PHP and Laravel**. I am passionat
 ### 🛠 Technologies:
 - **Backend:** PHP, Laravel, OOP, REST API
 - **Frontend:** HTML, CSS, Bootstrap
-- **Database:** MySQL
+- **Database:** MySQL,PostgreSQL
 - **Version Control:** Git, GitHub
 - **Testing & API:** Postman, Laravel Sanctum
 
