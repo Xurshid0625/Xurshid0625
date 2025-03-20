@@ -1,4 +1,36 @@
 <h1 align="center">Backend Developer | PHP & Laravel</h1>
+## 👋 Hello! I'm Xurshid Abdumannonov
+
+### 💻 Junior Backend Developer | PHP & Laravel
+
+I am a self-taught developer specializing in **PHP and Laravel**. I am passionate about backend development and always strive to write clean and efficient code. Additionally, I pay attention to frontend design as well.
+
+---
+
+### 🛠 Technologies:
+- **Backend:** PHP, Laravel, OOP, REST API
+- **Frontend:** HTML, CSS, Bootstrap
+- **Database:** MySQL
+- **Version Control:** Git, GitHub
+- **Testing & API:** Postman, Laravel Sanctum
+
+---
+
+### 📌 My Projects:
+- 🚀 **[Blog Platform](#)** – A blog platform built with Laravel.
+- 🛒 **[E-commerce Store](#)** – An online store for selling products.
+- 📂 **[Task Manager API](#)** – A task management system for users.
+
+🔗 **Check out my projects on GitHub:** [GitHub/Xurshid0625](https://github.com/Xurshid0625)
+
+---
+
+### 📬 Contact:
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Your Profile](#)
+- 🌐 Portfolio: [Your Website](#) *(if available)*
+
+🚀 Always open to sharing knowledge and working on exciting new projects!
 
 
 I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things. <br>
