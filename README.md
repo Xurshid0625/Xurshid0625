@@ -5,7 +5,11 @@
 
 I am a self-taught developer specializing in **PHP and Laravel**. I am passionate about backend development and always strive to write clean and efficient code. Additionally, I pay attention to frontend design as well.
 
----
+---<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ### 🛠 Technologies:
 - **Backend:** PHP, Laravel, OOP, REST API
