@@ -17,9 +17,9 @@ I am a self-taught developer specializing in **PHP and Laravel**. I am passionat
 ---
 
 ### 📌 My Projects:
-- 🚀 **[Blog Platform](#)** – A blog platform built with Laravel.
-- 🛒 **[E-commerce Store](#)** – An online store for selling products.
-- 📂 **[Task Manager API](#)** – A task management system for users.
+- 🚀 **https://xurshid0625.github.io/web-sayit-html-cssda/** – A blog platform built with Laravel.
+- 🛒 ** https://xurshid0625.github.io/Laravel-teach/** – An online store for selling products.
+- 📂 **https://xurshid0625.github.io/Task-Manager-API/** – A task management system for users.
 
 🔗 **Check out my projects on GitHub:** [GitHub/Xurshid0625](https://github.com/Xurshid0625)
 
