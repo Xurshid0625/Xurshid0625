@@ -27,9 +27,9 @@ I’m passionate about continuous learning, contributing to open-source, and col
 ---
 
 ### 📌 My Projects:
-- 🚀 ** https://med.jdpu.uz/** – A platform built with Blade and Laravel.
-- 🛒 ** https://github.com/Azod-uz/qrzoneApi/** – An online store for selling products.
-- 📂 ** https://xurshid0625.github.io/Task-Manager-API/** – A task management system for users.
+- 🚀 ** https://med.jdpu.uz/ ** – A platform built with Blade and Laravel.
+- 🛒 ** https://github.com/Azod-uz/qrzoneApi/ ** – An online store for selling products.
+- 📂 ** https://xurshid0625.github.io/Task-Manager-API/ ** – A task management system for users.
 
 🔗 **Check out my projects on GitHub:** [GitHub/Xurshid0625](https://github.com/Xurshid0625)
 
