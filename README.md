@@ -19,8 +19,8 @@ I am a self-taught developer specializing in **PHP and Laravel**.I love building
 
 ### 📌 My Projects:
 - 🚀 ** https://med.jdpu.uz/** – A platform built with Laravel.
-- 🛒 ** https://github.com/Azod-uz/qrzoneApi** – An online store for selling products.
-- 📂 **https://xurshid0625.github.io/Task-Manager-API/** – A task management system for users.
+- 🛒 ** https://xurshid0625.github.com/Azod-uz/qrzoneApi/** – An online store for selling products.
+- 📂 ** https://xurshid0625.github.io/Task-Manager-API/** – A task management system for users.
 
 🔗 **Check out my projects on GitHub:** [GitHub/Xurshid0625](https://github.com/Xurshid0625)
 
