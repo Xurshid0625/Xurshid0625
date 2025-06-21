@@ -1,17 +1,22 @@
 <h1 align="center">Backend Developer</h1>
-## 👋 Hello! I'm Xurshid Abdumannonov
+👋 Hello! I'm Xurshid Abdumannonov
+💻 Junior Backend Developer | PHP & Laravel Enthusiast
+I am a self-taught backend developer specializing in PHP and Laravel. I love building efficient and scalable web applications. I also pay attention to frontend design and usability with tools like Tailwind CSS and Livewire.
 
-### 💻 Junior Backend Developer | PHP & Laravel
+🛠 Technologies & Tools:
+Backend: PHP, Laravel, OOP, MVC, RESTful API
 
-I am a self-taught developer specializing in **PHP and Laravel**. I am passionate about backend development and always strive to write clean and efficient code. Additionally, I pay attention to frontend design as well.
+Frontend: HTML, CSS, Bootstrap, Tailwind CSS, Livewire, Blade
 
----
-### 🛠 Technologies:
-- **Backend:** PHP, Laravel, OOP, REST API
-- **Frontend:** HTML, CSS, Bootstrap
-- **Database:** MySQL,PostgreSQL
-- **Version Control:** Git, GitHub
-- **Testing & API:** Postman, Laravel Sanctum
+Database: MySQL, PostgreSQL
+
+Authentication & Security: Laravel Sanctum, Hashing, Validation
+
+Testing & Debugging: Postman, Laravel Debugbar
+
+Version Control: Git, GitHub
+
+Deployment & OS: Linux (Ubuntu), GitHub Pages, Shared Hosting (learning Docker & CI/CD)
 
 ---
 
