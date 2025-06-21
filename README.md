@@ -40,7 +40,7 @@ I’m passionate about continuous learning, contributing to open-source, and col
 - ✅ Actively contribute to open source projects
 - ✅ Master advanced Laravel features like Queues, Jobs, and Notifications
 - ✅ Deepen my understanding of testing with PHPUnit (Unit & Feature tests)
-- Become proficient with Linux command-line tools and server configuration
+- ✅ Become proficient with Linux command-line tools and server configuration
 
 ### 📬 Contact:
 - 📧 Email: abdumannonovxurshid0625@gmail.com
