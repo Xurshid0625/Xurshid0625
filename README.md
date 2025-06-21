@@ -34,14 +34,25 @@ I am a self-taught developer specializing in **PHP and Laravel**.I love building
 - Become proficient with Linux command-line tools and server configuration
 
 ### 📬 Contact:
-- 📧 Email:abdumannonovxurshid0625@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/xurshid-abdumannonov/
-- 🌐 Portfolio: No *(if available)*
+- 📧 Email: abdumannonovxurshid0625@gmail.com
+
+- 💼 LinkedIn: [linkedin.com/in/xurshid-abdumannonov](https://www.linkedin.com/in/xurshid-abdumannonov/)
+
+- 📱 Telegram: https://t.me/xurshid_0625
+
+- 📸 Instagram: https://www.instagram.com/xurshid_0625/
+
+- 🌐 Portfolio: Coming Soon
 
 🚀 Always open to sharing knowledge and working on exciting new projects!
 
+I’m a backend software engineer specializing in building high-load backend services, web applications, and system architectures using PHP and Laravel. I love solving problems, automating tasks, and building scalable solutions.
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things. <br>
+I focus on developing interactive Laravel applications with Livewire, crafting modern and responsive user interfaces using Tailwind CSS, and delivering clean, well-documented RESTful APIs for web and mobile platforms.
 
-I am always open to collaborating on projects and innovative ideas.  Find out more about me & feel free to connect with me here:
+I work comfortably on Linux systems, enjoy optimizing performance, and continuously seek to learn and grow.
+
+I’m always open to collaborating on projects and innovative ideas.
+Feel free to connect with me and explore more about what I do. 🚀
+
 
