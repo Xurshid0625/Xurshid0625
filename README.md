@@ -3,17 +3,26 @@
 
 ### 💻 Junior Backend Developer | PHP & Laravel Enthusiast
 
-I am a self-taught developer specializing in **PHP and Laravel**.I love building efficient and scalable web applications. I also pay attention to frontend design and usability with tools like Tailwind CSS and Livewire.
+I am a self-taught backend developer specializing in PHP and Laravel. I love building efficient, scalable, and secure web applications that solve real-world problems. I follow best practices in clean code, architecture, and development workflows.
+
+In addition to backend development, I pay close attention to frontend design and user experience, using tools like Tailwind CSS and Livewire to create dynamic, responsive interfaces that feel modern and intuitive.
+
+I have hands-on experience working with real-time features using WebSockets and Pusher, allowing me to build interactive applications such as live notifications, chat systems, and real-time dashboards.
+
+I’m also comfortable working in Linux environments, managing MySQL and PostgreSQL databases, and developing well-documented RESTful APIs for both web and mobile platforms.
+
+I’m passionate about continuous learning, contributing to open-source, and collaborating on innovative projects that make an impact.
 
 ---
 ### 🛠 Technologies & Tools:
-- **Backend:** PHP, Laravel, OOP, MVC, RESTful API
+- **Backend:** PHP, Laravel, OOP, MVC, RESTful API, WebSockets, Pusher (real-time communication)
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Livewire, Blade
-- **Database:** MySQL,PostgreSQL
+- **Database:** MySQL,PostgreSQL, Eloquent ORM, Query Builder, Database migrations & seeders
 - **Authentication & Security:** Laravel Sanctum, Hashing, Validation
 - **Testing & Debugging:** Postman, Laravel Debugbar
 - **Version Control:** Git, GitHub
 - **Deployment & OS:** Linux (Ubuntu), GitHub Pages, Shared Hosting (learning Docker & CI/CD)
+- **Real-time Features:** WebSocket, Pusher, Laravel Echo, Broadcasting events, real-time notifications
 
 ---
 
