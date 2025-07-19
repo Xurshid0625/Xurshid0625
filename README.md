@@ -16,7 +16,7 @@ I’m passionate about continuous learning, contributing to open-source, and col
 ---
 ### 🛠 Technologies & Tools:
 - **Backend:** PHP, Laravel, OOP, MVC, RESTful API, WebSockets, Pusher (real-time communication)
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Livewire, Blade
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Livewire, Blade, Java Script
 - **Database:** MySQL,PostgreSQL, Eloquent ORM, Query Builder, Database migrations & seeders
 - **Authentication & Security:** Laravel Sanctum, Hashing, Validation
 - **Testing & Debugging:** Postman, Laravel Debugbar
