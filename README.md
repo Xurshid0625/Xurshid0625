@@ -15,7 +15,7 @@ I’m passionate about continuous learning, contributing to open-source, and col
 
 ---
 ### 🛠 Technologies & Tools:
-- **Backend:** PHP, Laravel, OOP, MVC, RESTful API, WebSockets, Pusher (real-time communication)
+- **Backend:** PHP, Laravel, OOP, MVC, RESTful API
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Livewire, Blade, Java Script, Vue Js
 - **Database:** MySQL,PostgreSQL, Eloquent ORM, Query Builder, Database migrations & seeders
 - **Authentication & Security:** Laravel Sanctum, Hashing, Validation
@@ -27,7 +27,9 @@ I’m passionate about continuous learning, contributing to open-source, and col
 ---
 
 ### 📌 My Projects:
-- 🚀 ** https://med.jdpu.uz/ ** – A platform built with Blade and Laravel.
+- 🎁 ** https://starskids.uz/ ** - A platfrom built with Blade Java Script and Laravel, for promo codes
+- 🏡 ** https://uytv.uz/ ** - A home website built with   blade Java Script and Laravel, for sell apartments
+- 🏥 ** https://med.jdpu.uz/ ** – A platform built with Blade and Laravel.
 - 🛒 ** https://github.com/Azod-uz/qrzoneApi/ ** – An online store for selling products.
 - 📂 ** https://xurshid0625.github.io/Task-Manager-API/ ** – A task management system for users.
 
