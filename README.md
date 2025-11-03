@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Backend Developer</h1>
-## 👋 Hello! I'm Xurshid Abdumannonov
+Hello! I'm Xurshid Abdumannonov
 
-### 💻 Backend Developer | PHP & Laravel
+💻 Backend Developer | PHP & Laravel
 
 I am a self-taught backend developer specializing in PHP and Laravel. I love building efficient, scalable, and secure web applications that solve real-world problems. I follow best practices in clean code, architecture, and development workflows.
 
