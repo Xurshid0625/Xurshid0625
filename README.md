@@ -16,19 +16,14 @@ I’m passionate about continuous learning, contributing to open-source, and col
 ---
 ### 🛠 Technologies & Tools:
 - **Backend:** PHP, Laravel,
-- **Frontend:** Tailwind CSS,Java Script, Vue Js
+- **Frontend:** Tailwind CSS,Java Script
 - **Database:** MySQL,PostgreSQL
 - **Testing & Version Control :** Postman, Git,  GitHub
 - **Deployment & OS:** Linux (learning Docker & CI/CD)
-- **Real-time Features:** WebSocket, Pusher, Laravel Echo, Broadcasting events, real-time notifications
-
-🔗 **Check out my projects on GitHub:** [GitHub/Xurshid0625](https://github.com/Xurshid0625)
 
 ---
 ### 🎯 My Goals:
 - ✅ Build scalable and maintainable backend architectures
-- ✅ Use Livewire to create dynamic and reactive user interfaces
-- ✅ Actively contribute to open source projects
 - ✅ Master advanced Laravel features like Queues, Jobs, and Notifications
 - ✅ Deepen my understanding of testing with PHPUnit (Unit & Feature tests)
 - ✅ Become proficient with Linux command-line tools and server configuration
