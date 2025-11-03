@@ -15,12 +15,11 @@ I’m passionate about continuous learning, contributing to open-source, and col
 
 ---
 ### 🛠 Technologies & Tools:
-- **Backend:** PHP, Laravel, OOP,RESTful API
-- **Frontend:** Tailwind CSS, Livewire, Java Script, Vue Js
+- **Backend:** PHP, Laravel,
+- **Frontend:** Tailwind CSS,Java Script, Vue Js
 - **Database:** MySQL,PostgreSQL
-- **Testing & Debugging:** Postman, Laravel Debugbar
-- **Version Control:** Git, GitHub
-- **Deployment & OS:** Linux (Ubuntu), GitHub Pages, Shared Hosting (learning Docker & CI/CD)
+- **Testing & Version Control :** Postman, Git,  GitHub
+- **Deployment & OS:** Linux (learning Docker & CI/CD)
 - **Real-time Features:** WebSocket, Pusher, Laravel Echo, Broadcasting events, real-time notifications
 
 ---
