@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_banner.gif" width="100%" />
+</p>
+
 <h1 align="center">Backend Developer</h1>
 ## 👋 Hello! I'm Xurshid Abdumannonov
 
