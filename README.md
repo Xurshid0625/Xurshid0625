@@ -28,8 +28,6 @@ I’m passionate about continuous learning, contributing to open-source, and col
 - 🎁 ** https://starskids.uz/ ** - A platfrom built with Blade Java Script and Laravel, for promo codes
 - 🏡 ** https://uytv.uz/ ** - A home website built with   blade Java Script and Laravel, for sell apartments
 - 🏥 ** https://med.jdpu.uz/ ** – A platform built with Blade and Laravel.
-- 🛒 ** https://github.com/Azod-uz/qrzoneApi/ ** – An online store for selling products.
-- 📂 ** https://xurshid0625.github.io/Task-Manager-API/ ** – A task management system for users.
 
 🔗 **Check out my projects on GitHub:** [GitHub/Xurshid0625](https://github.com/Xurshid0625)
 
