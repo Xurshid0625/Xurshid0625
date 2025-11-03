@@ -33,17 +33,6 @@ I’m passionate about continuous learning, contributing to open-source, and col
 - ✅ Deepen my understanding of testing with PHPUnit (Unit & Feature tests)
 - ✅ Become proficient with Linux command-line tools and server configuration
 
-### 📬 Contact:
-- 📧 Email: abdumannonovxurshid0625@gmail.com
-
-- 💼 LinkedIn: [linkedin.com/in/xurshid-abdumannonov](https://www.linkedin.com/in/xurshid-abdumannonov/)
-
-- 📱 Telegram: https://t.me/xurshid_0625
-
-- 📸 Instagram: https://www.instagram.com/xurshid_0625/
-
-- 🌐 Portfolio: Coming Soon
-
 🚀 Always open to sharing knowledge and working on exciting new projects!
 
 I’m a backend software engineer specializing in building high-load backend services, web applications, and system architectures using PHP and Laravel. I love solving problems, automating tasks, and building scalable solutions.
