@@ -22,13 +22,6 @@ I’m passionate about continuous learning, contributing to open-source, and col
 - **Deployment & OS:** Linux (learning Docker & CI/CD)
 - **Real-time Features:** WebSocket, Pusher, Laravel Echo, Broadcasting events, real-time notifications
 
----
-
-### 📌 My Projects:
-- 🎁 ** https://starskids.uz/ ** - A platfrom built with Blade Java Script and Laravel, for promo codes
-- 🏡 ** https://uytv.uz/ ** - A home website built with   blade Java Script and Laravel, for sell apartments
-- 🏥 ** https://med.jdpu.uz/ ** – A platform built with Blade and Laravel.
-
 🔗 **Check out my projects on GitHub:** [GitHub/Xurshid0625](https://github.com/Xurshid0625)
 
 ---
