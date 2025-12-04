@@ -21,11 +21,4 @@ I’m passionate about continuous learning, contributing to open-source, and col
 - **Testing & Version Control :** Postman, Git,  GitHub
 - **Deployment & OS:** Linux (learning Docker & CI/CD)
 
----
-### 🎯 My Goals:
-- ✅ Build scalable and maintainable backend architectures
-- ✅ Master advanced Laravel features like Queues, Jobs, and Notifications
-- ✅ Deepen my understanding of testing with PHPUnit (Unit & Feature tests)
-- ✅ Become proficient with Linux command-line tools and server configuration
-
 
