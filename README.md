@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Backend Developer</h1>
-Hello! I'm Xurshid Abdumannonov
+Hi! I'm Xurshid Abdumannonov
 
 💻 Backend Developer | PHP & Laravel
 
