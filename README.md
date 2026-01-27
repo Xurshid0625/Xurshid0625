@@ -11,8 +11,8 @@ I’m passionate about continuous learning, contributing to open-source, and col
 
 ---
 ### 🛠 Technologies & Tools:
-- **Backend:** PHP, Laravel,
-- **Frontend:** Tailwind CSS,Java Script
+- **Backend:** PHP, Laravel, OOP, SOLID, Python, Django
+- **Frontend:** Tailwind CSS,Java Script, JQuery
 - **Database:** MySQL,PostgreSQL
 - **Testing & Version Control :** Postman, Git,  GitHub
 - **Deployment & OS:** Linux (learning Docker & CI/CD)
