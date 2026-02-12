@@ -56,15 +56,9 @@ I focus on writing clean, maintainable, and performance-oriented backend systems
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&theme=default"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xurshid0625&theme=tokyonight"/>
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625&theme=github)
 
 ---
 
