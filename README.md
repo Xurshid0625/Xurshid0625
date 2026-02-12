@@ -1,7 +1,7 @@
 <h1 align="center">Backend Developer</h1>
 Hi! I'm Xurshid Abdumannonov
 
-💻 Backend Developer | PHP & Laravel
+💻 Laravel Backend Developer | REST API | PostgreSQL | Linux Deployment
 
 I’m a backend software engineer specializing in building high-load backend services, web applications, and system architectures using PHP and Laravel. I love solving problems, automating tasks, and building scalable solutions.
 
