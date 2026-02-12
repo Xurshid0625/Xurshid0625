@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Xurshid 👋</h1>
+<h1 align="center">Hi, I'm Xurshid</h1>
 <h3 align="center">Laravel Backend Developer | REST API | PostgreSQL | Linux Deployment</h3>
 
 <p align="center">
