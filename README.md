@@ -59,7 +59,7 @@ I focus on writing clean, maintainable, and performance-oriented backend systems
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
