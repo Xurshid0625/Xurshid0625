@@ -55,10 +55,16 @@ I focus on writing clean, maintainable, and performance-oriented backend systems
 ✔ Continuous feature development  
 
 ---
+## 📊 GitHub Stats
 
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&count_private=true&include_all_commits=true" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625&theme=github)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xurshid0625&theme=github-dark" />
+</p>
+
 
 ---
 
