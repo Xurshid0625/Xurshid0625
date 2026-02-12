@@ -7,7 +7,7 @@ Building scalable backend systems with Laravel & PostgreSQL
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 Backend-focused Laravel developer with real production experience designing and deploying scalable RESTful APIs.
 
