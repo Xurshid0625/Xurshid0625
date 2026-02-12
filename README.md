@@ -1,20 +1,51 @@
-<h1 align="center">Backend Developer</h1>
+<h1 align="center">Laravel Backend Developer | REST API | PostgreSQL | Linux Deployment</h1>
 Hi! I'm Xurshid Abdumannonov
 
 💻 Laravel Backend Developer | REST API | PostgreSQL | Linux Deployment
 
-I’m a backend software engineer specializing in building high-load backend services, web applications, and system architectures using PHP and Laravel. I love solving problems, automating tasks, and building scalable solutions.
+Backend-focused Laravel developer with hands-on production experience building scalable RESTful APIs and deploying applications on Linux servers.
 
-I’m also comfortable working in Linux environments, managing MySQL and PostgreSQL databases, and developing well-documented RESTful APIs for both web and mobile platforms.
+I specialize in backend architecture, database optimization, and secure authentication systems for real-world startup platforms.
 
-I’m passionate about continuous learning, contributing to open-source, and collaborating on innovative projects that make an impact.
+## 🚀 What I Do
+
+- Architect and develop scalable RESTful APIs
+- Design optimized PostgreSQL database structures
+- Implement complex business logic (search, booking, pricing systems)
+- Build secure authentication & role-based authorization systems
+- Deploy and manage Laravel applications on Linux servers via SSH
+- Configure Nginx, PHP, PostgreSQL in production environments
+- Maintain and optimize live systems
 
 ---
-### 🛠 Technologies & Tools:
-- **Backend:** PHP, Laravel, OOP, SOLID, Python, Django
-- **Frontend:** Tailwind CSS,Java Script, JQuery
-- **Database:** MySQL,PostgreSQL
-- **Testing & Version Control :** Postman, Git,  GitHub
-- **Deployment & OS:** Linux (learning Docker & CI/CD)
+
+## 🛠 Tech Stack
+
+**Backend:** PHP, Laravel, REST API, JWT, Sanctum  
+**Database:** PostgreSQL, MySQL  
+**Architecture:** OOP, SOLID, MVC  
+**Infrastructure:** Linux, SSH, Nginx, Git-based deployment  
+**Tools:** Git, Postman  
+
+---
+
+## 🔥 Featured Project
+
+### 🏟 Playstat – Sports Booking Platform  
+🔗 https://playstat.uz  
+
+- Scalable REST API architecture  
+- Advanced search & dynamic booking system  
+- PostgreSQL performance optimization  
+- Production deployment via SSH  
+- Continuous feature improvements  
+
+---
+
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/xurshid-abdumannonov  
+- Telegram: https://t.me/Xurshid_0625 
 
 
