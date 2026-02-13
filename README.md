@@ -43,7 +43,10 @@ I focus on writing clean, maintainable, and performance-oriented backend systems
 <img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel%20Queues-FF2D20?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event%20Driven-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge"/>
 </p>
 
 ---
