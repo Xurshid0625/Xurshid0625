@@ -67,16 +67,16 @@ I focus on writing clean, maintainable, and performance-oriented backend systems
 
 A freelance marketplace platform similar to Upwork where clients can post jobs and freelancers can bid on them.
 
-- User authentication
-- Freelancer profiles
-- Job posting
-- Bidding system
-- Contracts
-- Messaging system
-- Reviews & ratings
-- Wallet & transactions
-- Withdraw system
-- REST API for mobile applications
+✔ User authentication
+✔ Freelancer profiles
+✔ Job posting
+✔ Bidding system
+✔ Contracts
+✔ Messaging system
+✔ Reviews & ratings
+✔ Wallet & transactions
+✔ Withdraw system
+✔ REST API for mobile applications
 
 ---
 ## 📊 GitHub Stats
