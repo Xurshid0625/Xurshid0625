@@ -62,11 +62,10 @@ I focus on writing clean, maintainable, and performance-oriented backend systems
 ✔ Linux production deployment  
 ✔ Continuous feature development  
 
-# Laravel Freelance Marketplace
+## 🔥Featured Laravel Freelance Marketplace
+🌍 https://chik.uz
 
 A freelance marketplace platform similar to Upwork where clients can post jobs and freelancers can bid on them.
-
-## Features
 
 - User authentication
 - Freelancer profiles
