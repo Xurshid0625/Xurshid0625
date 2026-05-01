@@ -81,6 +81,21 @@ A freelance marketplace platform similar to Upwork where clients can post jobs a
 ✔ Withdraw system
 ✔ REST API for mobile applications
 
+
+## 🔥 Featured Django Project
+
+### 💼 Freelance Marketplace API (Django)
+Upwork-like backend system built with Django REST Framework
+
+✔ User authentication & roles (Client / Freelancer)  
+✔ Job posting & bidding system  
+✔ Contract management  
+✔ Messaging system  
+✔ Reviews & rating system  
+✔ Wallet & transaction system  
+✔ Withdraw requests  
+✔ REST API for mobile/web clients  
+
 ---
 ## 📊 GitHub Stats
 
