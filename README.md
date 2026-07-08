@@ -58,6 +58,39 @@ Currently building production e-commerce and logistics platforms while continuou
 
 ## 🔥 Featured Production Project
 
+🛒 iWon Market
+
+Production E-commerce Marketplace
+
+✔ Production Laravel Backend
+
+✔ REST APIs
+
+✔ Laravel Queues
+
+✔ Redis
+
+✔ Docker
+
+✔ MySQL
+
+✔ Third-party Integrations
+
+✔ Performance Optimization
+
+🚚 Courier Delivery Platform
+✔ Node.js Backend
+
+✔ Express.js
+
+✔ PostgreSQL
+
+✔ Authentication
+
+✔ Delivery Workflow
+
+✔ Production APIs
+
 ### 🏟 Playstat – Sports Booking Platform  
 🌍 https://playstat.uz  
 
