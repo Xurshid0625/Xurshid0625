@@ -4,6 +4,12 @@
 Building scalable backend systems for production environments.
 </p>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?..."/>
+
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -52,7 +58,7 @@ Currently developing and maintaining production-grade e-commerce and logistics p
 </p>
 
 🚀 Production Projects
-🛒 iWon Market
+## 🛒 iWon Market
 
 Production e-commerce marketplace.
 
@@ -64,7 +70,7 @@ Production e-commerce marketplace.
 - Docker
 - Third-party Integrations
 
-🚚 Courier Delivery Platform
+## 🚚 Courier Delivery Platform
 
 Production logistics platform.
 
@@ -75,7 +81,7 @@ Production logistics platform.
 - Delivery Workflow
 - REST APIs
 
-🏟 Playstat – Sports Booking Platform  
+## 🏟 Playstat – Sports Booking Platform  
 🌍 https://playstat.uz  
 
 - Laravel
@@ -83,7 +89,7 @@ Production logistics platform.
 - PostgreSQL
 - Linux Deployment
 
-🔥Featured Laravel Freelance Marketplace
+## 🔥Featured Laravel Freelance Marketplace
 🌍 https://chik.uz
 
 A freelance marketplace platform similar to Upwork where clients can post jobs and freelancers can bid on them.
@@ -94,7 +100,7 @@ A freelance marketplace platform similar to Upwork where clients can post jobs a
 - Messaging
 - Reviews
 
-💼 Freelance Marketplace API (Django)
+## 💼 Freelance Marketplace API (Django)
 Upwork-like backend system built with Django REST Framework
 
 - Django REST Framework
@@ -103,14 +109,10 @@ Upwork-like backend system built with Django REST Framework
 
 ---
 ## 📊 GitHub Stats
-https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625
-
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625&theme=github-compact"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurshid0625&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Xurshid0625&theme=github-dark" />
 </p>
 
@@ -124,21 +126,21 @@ https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625
 
 🚀 Docker & Linux Deployment
 
-## Technologies I Work With
+## 🛠 Technologies I Work With
 
-**Backend**
+### Backend
 
 Laravel • Node.js • Express.js • Django
 
-**Databases**
+### Databases
 
 PostgreSQL • MySQL • Redis
 
-**Infrastructure**
+### Infrastructure
 
 Docker • Linux • Nginx
 
-**Architecture**
+### Architecture
 
 REST API • SOLID • Repository Pattern • Service Layer
 
@@ -165,4 +167,4 @@ I'm open to:
 - Remote and international projects
 - Freelance backend development
 
-Feel free to reach out if you'd like to collaborate or discuss backend engineering opportunities.
+If you're looking for a Backend Engineer or would like to collaborate on backend projects, feel free to connect with me.
