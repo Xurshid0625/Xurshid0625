@@ -2,16 +2,16 @@
   <img src="./github_banner.gif" width="100%" />
 </p>
 
-<h3 align="center">Backend Engineer | Laravel • Node.js • Django | Building Production REST APIs</h3>
+<h1 align="center">
+Hi 👋 I'm Xurshid Abdumannonov
+</h1>
+
+<h3 align="center">
+Backend Engineer | Laravel • Node.js • Django
+</h3>
 
 <p align="center">
-Building scalable backend systems for production environments.
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?..."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Laravel+Developer;Node.js+Backend+Developer;Building+Production+REST+APIs" />
 </p>
 
 ---
@@ -114,10 +114,10 @@ Upwork-like backend system built with Django REST Framework
 ---
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625&theme=github-compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurshid0625&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&count_private=true&include_all_commits=true" />
-  <img src="https://streak-stats.demolab.com?user=Xurshid0625&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625&theme=tokyo-night"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurshid0625&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Xurshid0625&theme=github-dark&hide_border=true"/>
 </p>
 
 ## Currently Working On
