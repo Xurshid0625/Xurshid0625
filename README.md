@@ -1,7 +1,7 @@
 <h3 align="center">Backend Engineer | Laravel • Node.js • Django | Building Production REST APIs</h3>
 
 <p align="center">
-Building scalable backend systems with Laravel • Node.js • Django & PostgreSQL
+Building scalable backend systems for production environments.
 </p>
 
 ---
@@ -12,21 +12,18 @@ Backend Engineer with commercial experience building production backend systems 
 
 Experienced in designing scalable REST APIs, authentication systems, database optimization, Docker-based environments, and Linux deployments.
 
-Currently building production e-commerce and logistics platforms while continuously improving backend architecture and system performance.
+Currently developing and maintaining production-grade e-commerce and logistics platforms with a focus on scalability, performance, and clean architecture.
 
----
+## Core Expertise
 
-## 🧠 Core Expertise
-
-- RESTful API Architecture  
-- Complex Business Logic (Search, Booking, Pricing)  
-- PostgreSQL Performance Optimization  
-- Authentication (JWT, Sanctum)  
-- Linux Server Deployment via SSH  
-- Nginx & PHP Configuration  
-- Production Issue Resolution  
-
----
+- REST API Development
+- Backend Architecture
+- Authentication & Authorization
+- Database Design & Optimization
+- Laravel Queues & Background Jobs
+- Third-party API Integration
+- Docker & Linux Deployment
+- Performance Optimization
 
 ## 🛠 Tech Stack
 
@@ -54,85 +51,59 @@ Currently building production e-commerce and logistics platforms while continuou
 <img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge"/>
 </p>
 
----
-
-## 🔥 Featured Production Project
-
+🚀 Production Projects
 🛒 iWon Market
 
-Production E-commerce Marketplace
+Production e-commerce marketplace.
 
-✔ Production Laravel Backend
-
-✔ REST APIs
-
-✔ Laravel Queues
-
-✔ Redis
-
-✔ Docker
-
-✔ MySQL
-
-✔ Third-party Integrations
-
-✔ Performance Optimization
+- Laravel
+- REST APIs
+- Laravel Queues
+- Redis
+- MySQL
+- Docker
+- Third-party Integrations
 
 🚚 Courier Delivery Platform
-✔ Node.js Backend
 
-✔ Express.js
+Production logistics platform.
 
-✔ PostgreSQL
+- Node.js
+- Express.js
+- PostgreSQL
+- Authentication
+- Delivery Workflow
+- REST APIs
 
-✔ Authentication
-
-✔ Delivery Workflow
-
-✔ Production APIs
-
-### 🏟 Playstat – Sports Booking Platform  
+🏟 Playstat – Sports Booking Platform  
 🌍 https://playstat.uz  
 
-✔ Scalable REST API  
-✔ Advanced booking & pricing system  
-✔ Optimized PostgreSQL schema  
-✔ Linux production deployment  
-✔ Continuous feature development  
+- Laravel
+- Booking System
+- PostgreSQL
+- Linux Deployment
 
-## 🔥Featured Laravel Freelance Marketplace
+🔥Featured Laravel Freelance Marketplace
 🌍 https://chik.uz
 
 A freelance marketplace platform similar to Upwork where clients can post jobs and freelancers can bid on them.
 
-✔ User authentication
-✔ Freelancer profiles
-✔ Job posting
-✔ Bidding system
-✔ Contracts
-✔ Messaging system
-✔ Reviews & ratings
-✔ Wallet & transactions
-✔ Withdraw system
-✔ REST API for mobile applications
+- Laravel
+- REST APIs
+- Wallet
+- Messaging
+- Reviews
 
-
-## 🔥 Featured Django Project
-
-### 💼 Freelance Marketplace API (Django)
+💼 Freelance Marketplace API (Django)
 Upwork-like backend system built with Django REST Framework
 
-✔ User authentication & roles (Client / Freelancer)  
-✔ Job posting & bidding system  
-✔ Contract management  
-✔ Messaging system  
-✔ Reviews & rating system  
-✔ Wallet & transaction system  
-✔ Withdraw requests  
-✔ REST API for mobile/web clients  
+- Django REST Framework
+- PostgreSQL
+- JWT 
 
 ---
 ## 📊 GitHub Stats
+https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurshid0625&layout=compact"/>
@@ -155,43 +126,43 @@ Upwork-like backend system built with Django REST Framework
 
 ## Technologies I Work With
 
-Backend
+**Backend**
 
-Laravel
+Laravel • Node.js • Express.js • Django
 
-Node.js
+**Databases**
 
-Django
+PostgreSQL • MySQL • Redis
 
-Databases
+**Infrastructure**
 
-PostgreSQL
+Docker • Linux • Nginx
 
-MySQL
+**Architecture**
 
-Redis
+REST API • SOLID • Repository Pattern • Service Layer
 
-Infrastructure
+## 📫 Let's Connect
 
-Docker
+📧 Email: abdumannonovxurshid0625@gmail.com
 
-Linux
+💼 LinkedIn
+https://linkedin.com/in/xurshid-abdumannonov
 
-Nginx
+💻 GitHub
+https://github.com/Xurshid0625
 
-Architecture
+💬 Telegram
+https://t.me/Xurshid_0625
 
-REST API
+## 🤝 Open to Opportunities
 
-SOLID
+I'm open to:
 
-Repository Pattern
+- Backend Engineer roles
+- Laravel Developer positions
+- Node.js Backend opportunities
+- Remote and international projects
+- Freelance backend development
 
-Service Layer
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/xurshid-abdumannonov  
-- Telegram: https://t.me/Xurshid_0625  
+Feel free to reach out if you'd like to collaborate or discuss backend engineering opportunities.
