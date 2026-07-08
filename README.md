@@ -157,15 +157,17 @@ Upwork-like backend system built with Django REST Framework
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xurshid0625&theme=github_dark"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xurshid0625&theme=tokyo-night"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xurshid0625&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xurshid0625&theme=github_dark"/>
+</p>
 
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurshid0625&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xurshid0625&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xurshid0625&theme=github_dark&utcOffset=5"/>
 </p>
 
 ---
