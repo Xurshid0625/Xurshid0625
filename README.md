@@ -1,7 +1,7 @@
 <h3 align="center">Backend Engineer | Laravel • Node.js • Django | Building Production REST APIs</h3>
 
 <p align="center">
-Building scalable backend systems with Laravel & PostgreSQL
+Building scalable backend systems with Laravel • Node.js • Django & PostgreSQL
 </p>
 
 ---
