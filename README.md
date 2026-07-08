@@ -1,4 +1,4 @@
-<h3 align="center">Laravel Backend Developer | REST API | PostgreSQL | Linux Deployment</h3>
+<h3 align="center">Backend Engineer | Laravel • Node.js • Django | Building Production REST APIs</h3>
 
 <p align="center">
 Building scalable backend systems with Laravel & PostgreSQL
@@ -8,11 +8,11 @@ Building scalable backend systems with Laravel & PostgreSQL
 
 ## 👨‍💻 About Me
 
-Backend-focused Laravel developer with real production experience designing and deploying scalable RESTful APIs.
+Backend Engineer with commercial experience building production backend systems using Laravel and Node.js.
 
-I specialize in backend architecture, database optimization, authentication systems, and Linux-based production deployments.
+Experienced in designing scalable REST APIs, authentication systems, database optimization, Docker-based environments, and Linux deployments.
 
-I focus on writing clean, maintainable, and performance-oriented backend systems.
+Currently building production e-commerce and logistics platforms while continuously improving backend architecture and system performance.
 
 ---
 
