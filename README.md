@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_banner.gif" width="100%" />
+</p>
+
 <h3 align="center">Backend Engineer | Laravel • Node.js • Django | Building Production REST APIs</h3>
 
 <p align="center">
