@@ -135,6 +135,7 @@ Upwork-like backend system built with Django REST Framework
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurshid0625&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Xurshid0625&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
@@ -142,6 +143,51 @@ Upwork-like backend system built with Django REST Framework
   <img src="https://streak-stats.demolab.com?user=Xurshid0625&theme=github-dark" />
 </p>
 
+## Currently Working On
+
+🚀 Laravel Production Systems
+
+🚀 Node.js Backend Development
+
+🚀 PostgreSQL Optimization
+
+🚀 Docker & Linux Deployment
+
+## Technologies I Work With
+
+Backend
+
+Laravel
+
+Node.js
+
+Django
+
+Databases
+
+PostgreSQL
+
+MySQL
+
+Redis
+
+Infrastructure
+
+Docker
+
+Linux
+
+Nginx
+
+Architecture
+
+REST API
+
+SOLID
+
+Repository Pattern
+
+Service Layer
 
 ---
 
