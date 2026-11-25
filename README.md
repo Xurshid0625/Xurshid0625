@@ -2,160 +2,84 @@
   <img src="./github_banner.gif" width="100%" />
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Xurshid Abdumannonov
-</h1>
-
-<h3 align="center">
-Backend Engineer | Laravel • Node.js • Django
-</h3>
+<h2 align="center">Hi 👋 I'm Xurshid Abdumannonov</h2>
+<h3 align="center">Backend Developer · PHP / Laravel</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Laravel+Developer;Node.js+Backend+Developer;Building+Production+REST+APIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+PHP+%26+Laravel;REST+APIs+%E2%80%A2+Queues+%E2%80%A2+Clean+Architecture;Open+to+backend+roles+in+Tashkent+or+remote" alt="Typing SVG" />
 </p>
-
-----
-
-# 👨‍💻 About Me
-
-Backend Engineer with commercial experience developing production backend systems using **Laravel** and **Node.js**.
-
-I specialize in designing scalable REST APIs, authentication systems, database optimization, background job processing, Dockerized environments, and Linux deployments.
-
-Currently building and maintaining production e-commerce and logistics platforms with a focus on performance, scalability, and clean architecture.
 
 ---
 
-# 🚀 Core Expertise
+## 👨‍💻 About Me
 
-### 🔹 Backend Development
-- REST API Development
-- Backend Architecture
-- Authentication & Authorization
-- Business Logic Implementation
+Backend developer with **1.5+ years of commercial experience** building and maintaining production systems with **PHP and Laravel**, plus hands-on **Node.js** experience.
 
-### 🗄️ Database Engineering
-- Database Design
-- Query Optimization
-- PostgreSQL & MySQL
-- Redis Caching
+- 🛒 Currently working on **iWon Market**, a live marketplace platform with **590+ REST API endpoints**
+- 🧩 Restructured its codebase into a **modular architecture**: business logic moved out of controllers into **Action and Repository classes**
+- 🏗️ Worked on marketplace, e-commerce, delivery, insurance, booking and university platforms used by real customers
+- 🌱 Currently learning: advanced Laravel, PostgreSQL performance, testing (Pest), system design
 
-### ⚡ Performance
-- Laravel Queues
-- Background Job Processing
-- Performance Optimization
-- Third-party API Integration
-
-### 🐳 Infrastructure
-- Docker
-- Linux Deployment
-- Nginx Configuration
+---
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Laravel%20Queues-FF2D20?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Event%20Driven-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge"/>
-</p>
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Databases & Cache**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Practices:** REST API design · SOLID · Design Patterns · Service Layer · Action classes · Repository Pattern · Laravel Queues & Jobs · Sanctum
 
 ---
 
-# 🚀 Production Projects
+## 🚀 Production Projects
 
-## 🛒 iWon Market
+### 🛒 iWon Market — marketplace platform (Laravel)
+- Develop and maintain the backend of a live marketplace with **590+ REST API endpoints**
+- Restructured the codebase into modules with **Action and Repository classes**
+- Background processing with **Laravel Queues and Jobs**
+- Investigate and fix production bugs and database performance issues
 
-Production e-commerce marketplace.
+🌍 [iwonmarket.uz](https://iwonmarket.uz) · *Source code is private (company project).*
 
-**Highlights**
+### 🚚 Courier Delivery Platform (Node.js)
+- REST APIs for courier and delivery operations, including authentication and order workflows
+- PostgreSQL query performance improvements
 
-- Built scalable REST APIs
-- Implemented Laravel Queues
-- Optimized MySQL queries
-- Integrated third-party services
-- Maintained production systems
-- 🌍 https://iwonmarket.uz
+*Source code is private (company project).*
 
-> Source code is private due to company confidentiality.
+### 💼 Chik.uz — freelance marketplace (Laravel, freelance)
+- Refactored backend architecture and developed REST APIs
+- Optimized database queries and backend modules
 
----
+🌍 [chik.uz](https://chik.uz)
 
-## 🚚 Courier Delivery Platform
+### 🏟 Playstat — sports & event booking (Laravel, freelance)
+- Booking APIs and authentication modules
+- Backend performance improvements and production deployments
 
-Production logistics platform.
-
-**Highlights**
-
-- Developed backend services with Node.js
-- Designed REST APIs
-- Built authentication system
-- Optimized PostgreSQL performance
-- Implemented delivery workflows
-
-> Source code is private due to company confidentiality.
+🌍 [playstat.uz](https://playstat.uz)
 
 ---
 
----
-
-# 💼 Commercial Projects
-
-## 🏟 Playstat
-
-Production sports booking platform.
-
-- Booking & reservation APIs
-- Authentication
-- PostgreSQL optimization
-- Linux deployment
-
-🌍 https://playstat.uz
-
----
-
-## 💼 Chik.uz
-
-Production freelance marketplace.
-
-- REST APIs
-- Wallet system
-- Messaging
-- Reviews & Ratings
-
-🌍 https://chik.uz
-
----
-
-## 💼 Freelance Marketplace API (Django)
-Upwork-like backend system built with Django REST Framework
-
-- Django REST Framework
-- PostgreSQL
-- JWT 
-
----
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xurshid0625&theme=github_dark"/>
@@ -173,31 +97,10 @@ Upwork-like backend system built with Django REST Framework
 
 ---
 
----
+## 📫 Contact
 
-# 🌱 Currently Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xurshid-abdumannonov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xurshid_0625)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdumannonovxurshid0625@gmail.com)
 
-- Advanced Laravel
-- High Performance PostgreSQL
-- System Design
-- Scalable Backend Architecture
-
----
-
-
-# 📫 Connect With Me
-
-- 📧 **Email:** abdumannonovxurshid0625@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/xurshid-abdumannonov
-- 💻 **GitHub:** https://github.com/Xurshid0625
-- 💬 **Telegram:** https://t.me/Xurshid_0625
-
----
-
-# 🤝 Open to Opportunities
-
-I'm open to Backend Engineer, Laravel Developer, and Node.js Backend roles.
-
-I'm also available for remote opportunities and freelance backend development.
-
-Feel free to reach out if you'd like to collaborate.
+**Open to backend developer roles (PHP / Laravel) in Tashkent or remote.**
